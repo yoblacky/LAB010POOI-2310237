@@ -23,7 +23,7 @@ public class SistemaDeGestion {
             System.out.println("5. Mostrar cantidad de pacientes por peso");
             System.out.println("6. Mostrar peso mayor y menor");
             System.out.println("7. Mostrar cantidad de pacientes por rango de peso");
-            System.out.println("8. Mostrar lista de pacientes ordenados por apellidos");
+            System.out.println("8. Mostrar lista de pacientes ordenados por nombre");
             System.out.println("9. Mostrar médico que atendió a un paciente");
             System.out.println("10. Buscar doctores por especialidad");
             System.out.println("0. Salir");
